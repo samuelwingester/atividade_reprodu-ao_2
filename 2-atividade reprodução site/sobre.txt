@@ -1,0 +1,52 @@
+secções:
+
+ALL:
+
+-cabecalho -
+-footer -
+-home -
+
+OTHERS:
+
+-gallery -
+-feedback -
+-why -
+-services
+-about
+-contact
+-blog
+
+page - 1:
+-main_home -
+-gallery -
+-feedback - 
+-why -
+
+page - 2:
+-services -
+
+page - 3:
+-about
+
+page - 4:
+-blog
+
+page - 5:
+-contact
+
+
+CORES:
+
+- fontes
+#222222
+#777777
+#ffffff
+
+- botões e hovers
+#fcdc00
+
+
+- backgrounds
+#000000
+#04091e
+#f9f9ff
